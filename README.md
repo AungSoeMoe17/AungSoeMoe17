@@ -1,5 +1,5 @@
-### Hello, I'm Aung Soe Moe 🧑‍💻✨
-<h2>🍀About Me:</h2>
+# Hello, I'm Aung Soe Moe 🧑‍💻✨
+##🍀About Me:
 Hi, I'm a junior web developer with a passion for learning and a strong enthusiasm for technology. 
 <ul>
   <li>Currently focused on honing my skills in PHP and Laravel, I am dedicated to exploring the vast world of web development.</li>
@@ -14,7 +14,7 @@ Excited about the possibilities within the ever-evolving field, I am committed t
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/aungsoemoeGL)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
